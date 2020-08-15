@@ -1,0 +1,22 @@
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.exe.config
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.exe
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.pdb
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\OzekiSDK.dll
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csprojAssemblyReference.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\_01_Video_Camera_Viewer.MainForm.resources
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.GenerateResource.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.CoreCompileInputs.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.CopyComplete
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\01_Video_Camera_Viewer.exe
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\01_Video_Camera_Viewer.pdb
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csprojAssemblyReference.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\_01_Video_Camera_Viewer.MainForm.resources
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.GenerateResource.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.CoreCompileInputs.cache
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\01_Video_Camera_Viewer.exe
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\01_Video_Camera_Viewer.pdb
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.exe.config
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.exe
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\01_Video_Camera_Viewer.pdb
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\bin\Debug\OzekiSDK.dll
+C:\Users\dgruv kachhadiya\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\01_Viewer\BasicIPCameraViewer - Copy\BasicIPCameraViewer\BasicIPCameraViewer\obj\Debug\BasicIPCameraViewer.csproj.CopyComplete
