@@ -28,3 +28,5 @@ Can see recorded streaming, live streaming , Machine Learning techniques on reco
 <img src="Demo-Screenshots/Picture7.png">
 <img src="Demo-Screenshots/Picture8.png">
 <img src="Demo-Screenshots/Picture9.png">
+<img src="Demo-Screenshots/Picture10.png">
+<img src="Demo-Screenshots/Picture11.png">
