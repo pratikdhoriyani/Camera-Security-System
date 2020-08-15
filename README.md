@@ -2,7 +2,6 @@
 
 This project is a <b>standalone windows application</b> with pretty <b>GUI</b> of a <b>“Camera Security System”</b>. 
 
-<br>
 <h4>The purpose of this project is to provide following functionality :</h4><br>
 
 It can record audio and video streams from multiple cameras simultaneously and can store the
