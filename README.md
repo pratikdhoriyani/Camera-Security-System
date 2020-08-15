@@ -19,4 +19,4 @@ Can see recorded streaming, live streaming , Machine Learning techniques on reco
 
 <h3>Demo Screenshots</h3>
 
-<img src="Demo-Screenshots/Picture1.png" width="200px" height="200px">
+<img src="Demo-Screenshots/Picture1.png" width="600px" height="600px">
